@@ -1,0 +1,15 @@
+{
+    "0": {
+        "id": 1,
+        "title": "Learn Node.js",
+        "content": "Learn REST API using Express"
+    },
+    "1": {
+        "id": 2,
+        "title": "Practice JavaScript",
+        "content": "Practice arrays and objects"
+    },
+    "dependencies": {
+        "express": "^5.2.1"
+    }
+}
